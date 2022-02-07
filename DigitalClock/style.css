@@ -12,7 +12,10 @@ body {
   min-height: 100vh;
   background: #091921;
 }
-
+a {
+  color: yellowgreen;
+  text-decoration: none;
+}
 .clock {
   width: 350px;
   height: 350px;
